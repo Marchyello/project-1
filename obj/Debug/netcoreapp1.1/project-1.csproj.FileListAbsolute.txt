@@ -1,0 +1,8 @@
+/home/mm/Documents/dotNET_projects/test-proj-1/project-1/bin/Debug/netcoreapp1.1/project-1.deps.json
+/home/mm/Documents/dotNET_projects/test-proj-1/project-1/bin/Debug/netcoreapp1.1/project-1.runtimeconfig.json
+/home/mm/Documents/dotNET_projects/test-proj-1/project-1/bin/Debug/netcoreapp1.1/project-1.runtimeconfig.dev.json
+/home/mm/Documents/dotNET_projects/test-proj-1/project-1/bin/Debug/netcoreapp1.1/project-1.dll
+/home/mm/Documents/dotNET_projects/test-proj-1/project-1/bin/Debug/netcoreapp1.1/project-1.pdb
+/home/mm/Documents/dotNET_projects/test-proj-1/project-1/obj/Debug/netcoreapp1.1/project-1.AssemblyInfo.cs
+/home/mm/Documents/dotNET_projects/test-proj-1/project-1/obj/Debug/netcoreapp1.1/project-1.dll
+/home/mm/Documents/dotNET_projects/test-proj-1/project-1/obj/Debug/netcoreapp1.1/project-1.pdb
